@@ -1,5 +1,12 @@
 hai
 hello
+<<<<<<< HEAD
 welcom
-:wq
+i:wq
 
+=======
+welcome
+>>>>>>> parent of 38e5a78 (msg
+kkkkk
+,,,,,,
+llll)
